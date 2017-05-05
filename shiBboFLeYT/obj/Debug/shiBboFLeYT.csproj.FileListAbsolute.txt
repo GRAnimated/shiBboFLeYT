@@ -1,0 +1,9 @@
+c:\users\joshua\documents\visual studio 2017\Projects\shiBboFLeYT\shiBboFLeYT\bin\Debug\shiBboFLeYT.exe.config
+c:\users\joshua\documents\visual studio 2017\Projects\shiBboFLeYT\shiBboFLeYT\bin\Debug\shiBboFLeYT.exe
+c:\users\joshua\documents\visual studio 2017\Projects\shiBboFLeYT\shiBboFLeYT\bin\Debug\shiBboFLeYT.pdb
+c:\users\joshua\documents\visual studio 2017\Projects\shiBboFLeYT\shiBboFLeYT\obj\Debug\shiBboFLeYT.csprojResolveAssemblyReference.cache
+c:\users\joshua\documents\visual studio 2017\Projects\shiBboFLeYT\shiBboFLeYT\obj\Debug\shiBboFLeYT.Form1.resources
+c:\users\joshua\documents\visual studio 2017\Projects\shiBboFLeYT\shiBboFLeYT\obj\Debug\shiBboFLeYT.Properties.Resources.resources
+c:\users\joshua\documents\visual studio 2017\Projects\shiBboFLeYT\shiBboFLeYT\obj\Debug\shiBboFLeYT.csproj.GenerateResource.Cache
+c:\users\joshua\documents\visual studio 2017\Projects\shiBboFLeYT\shiBboFLeYT\obj\Debug\shiBboFLeYT.exe
+c:\users\joshua\documents\visual studio 2017\Projects\shiBboFLeYT\shiBboFLeYT\obj\Debug\shiBboFLeYT.pdb
